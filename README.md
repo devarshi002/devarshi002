@@ -41,15 +41,13 @@ Greetings, curious visitor! You’ve stumbled upon my GitHub profile—a hub whe
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devarshi002&layout=compact&theme=tokyonight)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devarshi002&theme=tokyonight)
 
 ---
 
 ## 🤝 Let’s Connect:
 
-- **🌐 Website**: [CODE JAMM](https://code-jamm.com)
 - **💼 LinkedIn**: [Devarshi Tambulkar](https://www.linkedin.com/in/devarshi-tambulkar-425b54207/)
-- **🐦 X**: [@DevarshiT](https://x.com/Devarshi_T02)
+- **🐦 X**: [@DevarshiT02](https://x.com/Devarshi_T02)
 - **📧 Email**: [devarshitambulkar2@gmail.com](mailto:devarshitambulkar2@gmail.com)
 
 ---
