@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devarshi%20Tambulkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devarshi%20Tambulkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Creator&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+caffeine+into+working+code+since+2020;IoT+%7C+AI+%7C+Flask+%7C+Python+%7C+React+%7C+Web;B.Tech+Computer+Engineering+%E2%80%94+Class+of+2024;74+repos+%26+counting...+the+build+never+stops;Currently+shipping%3A+Binance+Bot+%F0%9F%A4%96+%26+Tiffin+App+%F0%9F%8D%B1" />
 
