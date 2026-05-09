@@ -248,7 +248,7 @@ When I'm not in the editor, I'm sketching ideas on paper, listening to music tha
 
 | 🎵 Music | ✏️ Sketching | 🎥 Movies | 🌐 Languages |
 |:-------:|:----------:|:-------:|:----------:|
-| Playlists that feel like movie soundtracks | Turning half-baked ideas into paper wireframes | Harry Potter universe, no skips | English · Hindi · learning Kannada 🇮🇳 |
+| Playlists that feel like movie soundtracks | Turning half-baked ideas into paper wireframes | Harry Potter universe, no skips | English . Marathi · Hindi · learning Kannada 🇮🇳 |
 
 </div>
 
